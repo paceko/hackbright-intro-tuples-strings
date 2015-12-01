@@ -2,7 +2,7 @@
 ## Make a local clone of your fork
 Make sure you're in your own fork before cloning!
 
-## Create a file in this directory (`02-strings`)
+## Create a file in this directory (`02-strings`) 
 *Complete these exercises the `02-strings` directory of this repository on your local machine.*
 
 1. Create a file called `parse_strings.py`.
